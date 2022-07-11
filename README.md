@@ -1,5 +1,7 @@
 # Marcelo Cromack
-## Strogonoff de carne :cow:
 
-Quando era criança, sempre sonhei em ser astronauta, sou bibliotecário de formação, pratico Yoga e musculação. 
-Gosto muito de robôs e inteligência artficial vountada para fazeres domésticos
+# ✨Campinho Digital✨
+# :computer:Campinho Digital:computer:
+
+###  Bem-Vindo visitante! 🖖
+>Repositório da campinho digital, aqui mostro meus projetos durante o curso!
