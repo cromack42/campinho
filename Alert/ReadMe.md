@@ -1,3 +1,3 @@
 # Exercício ministrado em aula sobre a função ALERT do JavaScript 
 
-(https://imgur.com/hW1NMQv)
+<img src= "[Imgur](https://i.imgur.com/hW1NMQv.png)">
