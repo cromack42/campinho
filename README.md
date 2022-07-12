@@ -12,4 +12,4 @@
 
 
 
-![Design sem nome](https://user-images.githubusercontent.com/107922389/175796543-e0b5d2fb-dd8e-447d-bf5b-d9100cef81cc.gif) @AbnerSantosss/Campinho-Digital
+![Design arte: @AbnerSantosss/Campinho-Digital](https://user-images.githubusercontent.com/107922389/175796543-e0b5d2fb-dd8e-447d-bf5b-d9100cef81cc.gif)
