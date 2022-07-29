@@ -1,0 +1,1 @@
+Exercícios ministrados pela ong "campinho digital" para o curso "Fullstack backend" na linguagem javascript utilizando a ferramente opensource Node.js.
