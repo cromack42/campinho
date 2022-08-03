@@ -17,6 +17,41 @@ Para cada charAt você deve concatenar isto numa string separada e exibir ela no
 
 let rs = require ('readline-sync')
 
-let palavra = question('digite a palavra a ser transformada: ')
+let palavra = rs.question('digite a palavra a ser transformada: ')
 
+let tamanhoPalavra = palavra.length
 
+let palavraAlternada = ""
+
+for(let i = 0; i <= tamanhoPalavra; i++){
+    switch(palavra.charAt(i)){
+
+        case "a":
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toUpperCase()
+        break
+
+        
+        case "e":
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toUpperCase()
+        break
+
+        case "i":
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toUpperCase()
+        break
+
+        case "o":
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toUpperCase()
+        break
+
+        case "u":
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toUpperCase()
+        break
+
+        default:
+        
+        palavraAlternada = palavraAlternada + palavra.charAt(i).toLocaleLowerCase()
+        break
+
+    }
+}
+console.log(palavraAlternada)
