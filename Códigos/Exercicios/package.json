@@ -1,0 +1,25 @@
+{
+    "name": "refactor",
+    "version": "1.0.0",
+    "description": "- Clone o repositório na sua máquina",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/campinho-digital/refatorando_projetos.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/campinho-digital/refatorando_projetos/issues"
+    },
+    "homepage": "https://github.com/campinho-digital/refatorando_projetos#readme",
+    "devDependencies": {
+      "jest": "^28.1.3",
+      "jest-cli": "^28.1.3"
+    }
+  }
+  
