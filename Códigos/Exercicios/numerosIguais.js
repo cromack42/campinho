@@ -1,5 +1,8 @@
 let rs = require ('readline-sync');
 
-let mes = parseInt(rs.question('Digite o número:'))
+let numero = parseInt(rs.question('Digite um numero:'))
+let numero1 = parseInt(rs.question('Digite outro numero:'))
 
-if (numero = numero2)
+if (numero = numero1){
+    console.log('Repetindo o maior numero: ',numero , numero1)
+}
